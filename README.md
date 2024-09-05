@@ -1,6 +1,6 @@
 # Machine-Learning-in-the-Fight-Against-Fraud-Evaluating-Models-for-Credit-Card-Transaction-Security
 
-### **Author:** Aditya Jagdale, Dr. Sean Humpherys
+### **Authors:** Aditya Jagdale, Dr. Sean Humpherys
 
 This Python notebook has been authored as a research paper and serves as an in-depth exploration of building and optimizing an automated financial processing system using Python, Snowflake, and related technologies. It aims to provide both theoretical insights and practical implementations in the context of modern data engineering practices.
 
